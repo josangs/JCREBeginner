@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Java Card project properties</comment>
+<entry key="com.domain_major_version">1</entry>
+<entry key="com.domain">D2 76 00 00 60 50 01</entry>
+<entry key="com.domain_minor_version">17</entry>
+<entry key="card_profile_id">java_card_212_3gpp_r5_gp211</entry>
+<entry key="com.domain.Prueba">D2 76 00 00 60 50 01 00</entry>
+</properties>

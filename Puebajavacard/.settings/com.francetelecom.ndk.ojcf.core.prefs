@@ -1,0 +1,10 @@
+CONVERTER_CL_OPTIONS_verbose=true
+CREF_CL_OPTIONS_b=true
+CREF_CL_OPTIONS_e=true
+CREF_CL_OPTIONS_nobanner=true
+CREF_CL_OPTIONS_nomeminfo=true
+CREF_CL_OPTIONS_z=true
+JCWDE_CL_OPTIONS_nobanner=true
+JCWDE_CL_OPTIONS_verbose=true
+card_profile_id=java_card_212_3gpp_r5_gp211
+eclipse.preferences.version=1
